@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Lab4</string>
+    <string name="action_settings">Settings</string>
+    <string name="locationA">Location A</string>
+    <string name="locationB">Location B</string>
+    <string name="locationC">Location C</string>
+    <string name="locationD">Location D</string>
+    <string name="locationE">Location E</string>
+    <string name="locationF">Location F</string>
+    <string name="locationG">Location G</string>
+</resources>
